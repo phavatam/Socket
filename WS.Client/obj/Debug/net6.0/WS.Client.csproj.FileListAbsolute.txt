@@ -1,0 +1,14 @@
+D:\SourceCodePersonal\Socket\ApplicationServiceAPI\WS.Client\bin\Debug\net6.0\WS.Client.exe
+D:\SourceCodePersonal\Socket\ApplicationServiceAPI\WS.Client\bin\Debug\net6.0\WS.Client.deps.json
+D:\SourceCodePersonal\Socket\ApplicationServiceAPI\WS.Client\bin\Debug\net6.0\WS.Client.runtimeconfig.json
+D:\SourceCodePersonal\Socket\ApplicationServiceAPI\WS.Client\bin\Debug\net6.0\WS.Client.dll
+D:\SourceCodePersonal\Socket\ApplicationServiceAPI\WS.Client\bin\Debug\net6.0\WS.Client.pdb
+D:\SourceCodePersonal\Socket\ApplicationServiceAPI\WS.Client\obj\Debug\net6.0\WS.Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\SourceCodePersonal\Socket\ApplicationServiceAPI\WS.Client\obj\Debug\net6.0\WS.Client.AssemblyInfoInputs.cache
+D:\SourceCodePersonal\Socket\ApplicationServiceAPI\WS.Client\obj\Debug\net6.0\WS.Client.AssemblyInfo.cs
+D:\SourceCodePersonal\Socket\ApplicationServiceAPI\WS.Client\obj\Debug\net6.0\WS.Client.csproj.CoreCompileInputs.cache
+D:\SourceCodePersonal\Socket\ApplicationServiceAPI\WS.Client\obj\Debug\net6.0\WS.Client.dll
+D:\SourceCodePersonal\Socket\ApplicationServiceAPI\WS.Client\obj\Debug\net6.0\refint\WS.Client.dll
+D:\SourceCodePersonal\Socket\ApplicationServiceAPI\WS.Client\obj\Debug\net6.0\WS.Client.pdb
+D:\SourceCodePersonal\Socket\ApplicationServiceAPI\WS.Client\obj\Debug\net6.0\WS.Client.genruntimeconfig.cache
+D:\SourceCodePersonal\Socket\ApplicationServiceAPI\WS.Client\obj\Debug\net6.0\ref\WS.Client.dll
